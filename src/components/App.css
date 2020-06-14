@@ -35,7 +35,7 @@
 
 .mid-center{
   width: 80%;
-  padding: 5% 5%;
+  padding: 5% 1%;
   background-color: var(--light-bg-color);
 }
 
@@ -287,4 +287,13 @@
     font-size: var(--tag-font);
   }
   
+}
+
+/* Footer */
+
+footer {
+  background-color: var(--light-bg-color);
+  color: var(--background-color);
+  font-weight: 500;
+  padding-bottom: 2rem;
 }

@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <TopHeader />
       <MidContainer />
-      
+      <footer>Code finished by Yitian Luo</footer>
     </div>
   );
 }
